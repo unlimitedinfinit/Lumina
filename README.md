@@ -6,6 +6,10 @@
 
 It blends chill, meditative visuals with chaotic physics challenges, designed to be played on Desktop or Mobile.
 
+| **Luminar Flow** | [**games.truejust.org**](https://games.truejust.org/) | A Zen physics puzzle game powered by React Three Fiber. **[Play it live](https://games.truejust.org/)** or clone the repo to adapt the custom particle engine yourself! |
+
+<br />
+
 ---
 
 ## 🎮 How It Works
