@@ -1,4 +1,4 @@
-# Luminar Flow 🌌
+# Lumina 🌌
 
 > **A Zen Physics Puzzle Game powered by React Three Fiber**
 
